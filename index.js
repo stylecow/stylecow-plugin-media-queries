@@ -4,6 +4,7 @@ module.exports = function (tasks, stylecow) {
 
     tasks.addTask({
         filter: 'ConditionalFeatureRange',
+        position: 'before',
         fn: function (range) {
             let expression = range.getParent();
 

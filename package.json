@@ -14,7 +14,8 @@
   },
   "devDependencies": {
     "mocha": "^2.3.3",
-    "stylecow-core": "^2.1.1"
+    "stylecow-core": "^2.1.1",
+    "stylecow-plugin-custom-media": "^2.0.0"
   },
   "scripts": {
     "test": "mocha tests/cases.js"

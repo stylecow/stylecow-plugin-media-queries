@@ -2,7 +2,8 @@ var stylecow = require('stylecow-core');
 
 var tests = new stylecow.Test(__dirname + '/cases');
 var tasks = (new stylecow.Tasks())
-    .use(require('../index'));
+    .use(require('../index'))
+    .use(require('stylecow-plugin-custom-media'));
 
 tests.run(function (test) {
     tasks.run(test.css);
