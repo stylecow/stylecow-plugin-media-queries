@@ -1,0 +1,24 @@
+{
+  "name": "stylecow-plugin-media-queries",
+  "description": "Stylecow plugin to add support to some Media Queries Level 4 syntax",
+  "version": "1.0.0",
+  "engines": {
+    "node": ">=4.0"
+  },
+  "author": "Oscar Otero <oom@oscarotero.com>",
+  "homepage": "https://github.com/stylecow/stylecow-plugin-media-queries",
+  "bugs": "https://github.com/stylecow/stylecow-plugin-media-queries/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stylecow/stylecow-plugin-media-queries.git"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.3",
+    "stylecow-core": "^2.1.1"
+  },
+  "scripts": {
+    "test": "mocha tests/cases.js"
+  },
+  "main": "index.js",
+  "license": "MIT"
+}

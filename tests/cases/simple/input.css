@@ -1,0 +1,48 @@
+@media screen and (aspect-ratio <= 1/1000) {
+}
+@media screen and (width <= 20px) {
+}
+@media screen and (colors <= 34) {
+}
+@media screen and (1/1000 >= aspect-ratio) {
+}
+@media screen and (20px >= width) {
+}
+@media screen and (34 >= colors) {
+}
+@media screen and (aspect-ratio >= 1/1000) {
+}
+@media screen and (width >= 20px) {
+}
+@media screen and (colors >= 34) {
+}
+@media screen and (1/1000 <= aspect-ratio) {
+}
+@media screen and (20px <= width) {
+}
+@media screen and (34 <= colors) {
+}
+@media screen and (aspect-ratio < 1/1000) {
+}
+@media screen and (width < 20px) {
+}
+@media screen and (colors < 34) {
+}
+@media screen and (1/1000 > aspect-ratio) {
+}
+@media screen and (20px > width) {
+}
+@media screen and (34 > colors) {
+}
+@media screen and (aspect-ratio > 1/1000) {
+}
+@media screen and (width > 20px) {
+}
+@media screen and (colors > 34) {
+}
+@media screen and (1/1000 < aspect-ratio) {
+}
+@media screen and (20px < width) {
+}
+@media screen and (34 < colors) {
+}
