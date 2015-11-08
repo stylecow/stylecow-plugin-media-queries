@@ -1,7 +1,7 @@
 stylecow plugin media-queries
 =============================
 
-[![Build Status](https://travis-ci.org/stylecow/stylecow-plugin-nested-rules.svg)](https://travis-ci.org/stylecow/stylecow-plugin-media-queries)
+[![Build Status](https://travis-ci.org/stylecow/stylecow-plugin-media-queries.svg)](https://travis-ci.org/stylecow/stylecow-plugin-media-queries)
 
 Stylecow plugin to add support for some syntax of [Media Queries Level 4](https://drafts.csswg.org/mediaqueries4/)
 
